@@ -25,6 +25,6 @@ Analyzed a sample telecom customer dataset to explore customer churn, identify h
 A retention team could test earlier outreach for newer, month-to-month customers. These are patterns in the dataset; they do not prove what caused churn or that an intervention will reduce it.
 
 ## Files
-- `Untitled0.ipynb 2` — Colab analysis notebook
+- `customer_churn_analysis.ipynb` — Colab analysis notebook
 - `Customer_churn_analysis_dashboard (1).pdf` — dashboard export
 - `README.md` — project overview and findings
